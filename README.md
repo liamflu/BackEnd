@@ -1,3 +1,4 @@
+
 # Sistema de Agendamento de Consultas para Clínica Médica
 
 Este projeto é uma aplicação web completa para gerenciamento de agendamentos de consultas, com autenticação, integração com APIs externas e painel administrativo.
@@ -19,3 +20,5 @@ Veja instruções detalhadas nas pastas `backend` e `frontend`.
 
 ## Deploy
 Pronto para deploy local ou em nuvem.
+
+
